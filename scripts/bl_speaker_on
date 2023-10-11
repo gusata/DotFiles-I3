@@ -1,0 +1,6 @@
+#!/bin/bash
+
+bluetoothctl power on
+sleep 2
+# JBL GO bluetooth speaker
+bluetooth connect 64:68:76:20:32:83
